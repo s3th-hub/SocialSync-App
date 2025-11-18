@@ -1,0 +1,5 @@
+{
+  "name": "SocialSync AI",
+  "description": "A cross-platform social media content generator that creates tailored text and images for LinkedIn, Twitter/X, and Instagram simultaneously using Gemini and Imagen.",
+  "requestFramePermissions": []
+}
